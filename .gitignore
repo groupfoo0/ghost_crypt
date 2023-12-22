@@ -1,0 +1,5 @@
+*.tiled-session
+maps/*.lua
+gfx_source
+mods/ghost_crypt_main/tiled/
+mods/ghost_crypt_main/textures/generated/
