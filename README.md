@@ -70,15 +70,15 @@ Prepend a name to all files in current directory:
 
 ## License
 
-Code: LGPLv2
+Code: LGPLv2 or later. See COPYING.LESSER
 
-File: ghost_crypt_main.png
-Source: https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental
-License: CC0
+- File: ghost_crypt_main.png
+- Source: https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental
+- License: CC0
 
-Files: ghost_crypt_main_step\*.ogg
-Source: https://opengameart.org/content/9-wet-snow-steps
-License: CC0
+- Files: ghost_crypt_main_step\*.ogg
+- Source: https://opengameart.org/content/9-wet-snow-steps
+- License: CC0
 
-Everything else: own work, or modification of the above
-License: CC0
+- Everything else: own work, or modification of the above
+- License: CC0
