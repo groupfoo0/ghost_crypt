@@ -1420,12 +1420,16 @@ local treasure_types_string = [[
 .##
 ##.
 
+.##
 #..
-###
+#..
+
+#..
+.##
 ..#
 
 ..#
-###
+##.
 #..
 ]]
 local treasure_types = {}
